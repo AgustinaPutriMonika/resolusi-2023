@@ -2,5 +2,5 @@ WPU RESOLUSI
 - konsisten ngoding 2x seminggu
 - Membuat platform untuk tugas akhir
 - Membuat list belajar
-- Menambah waktu belajar
+- buat website
 - Kolaborasi lagi
